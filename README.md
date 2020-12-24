@@ -6,5 +6,7 @@ The purpose of this project was to create a data visualization from a public dat
 
 For my project I have selected to visualize Donald Trump and Joe Biden datase Tweets.
 
-![Alt Text](https://media.giphy.com/media/A3XevNwiZLfp0V18t8/giphy.gif){:height="1200px" width="800px"}
+![Alt Text](){:height="1200px" width="800px"}
 
+
+<img src="https://media.giphy.com/media/A3XevNwiZLfp0V18t8/giphy.gif" width="1200" height="800">
