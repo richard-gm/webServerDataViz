@@ -1,4 +1,4 @@
-# web Server Data Viz
+# Data Visualization - University Project
 
 This repo will be used to store the data needed for the IN3030 Data Visualization project
 
@@ -7,3 +7,6 @@ The purpose of this project was to create a data visualization from a public dat
 For my project I have selected to visualize Donald Trump and Joe Biden datase Tweets.
 
 <img src="https://media.giphy.com/media/A3XevNwiZLfp0V18t8/giphy.gif" width="1000" height="600">
+
+In order to run this project you need to instal ELM
+https://elm-lang.org/
